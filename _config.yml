@@ -1,0 +1,10 @@
+# Masjid Islami Joensuu – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Islami Joensuu"
+description: "Masjid Islami Joensuu, Kirkkokatu 16 C, Joensuu. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-islami-joensuu     # tiedosto _moskeijat/masjid-islami-joensuu.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-islami-joensuu/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-islami-joensuu"
